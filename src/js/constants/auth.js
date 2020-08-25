@@ -1,0 +1,5 @@
+export const AUTH_SIGN_IN = 'AUTH_SIGN_IN';
+export const AUTH_FETCH_USER_INFO = 'AUTH_FETCH_USER_INFO';
+export const AUTH_SET_USER_INFO = 'AUTH_SET_USER_INFO';
+export const AUTH_SIGN_UP = 'AUTH_SIGN_UP';
+export const AUTH_DEFAULT = 'AUTH_DEFAULT';
